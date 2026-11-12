@@ -1,7 +1,7 @@
 # LSTM Quote Generator
 
 Character-level LSTM trained from scratch on philosophical texts 
-(Marcus Aurelius, Epictetus, Sun Tzu) to generate aphoristic prose.
+(Marcus Aurelius, Epictetus, Sun Tzu) to generate aphoristic prose, taken from Kaggle Dataset.
 
 ## Results
 - Final Loss: 1.4124
